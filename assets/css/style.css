@@ -1,0 +1,62 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+h1,
+h2 {
+    font-size: 25px;
+    font-weight: bold;
+    position: relative;
+    left: 500px;
+    font-size: 40px;
+}
+
+#text-section {
+    height: 100px;
+    width: 500px;
+    /* background-color: darkblue; */
+    color: white;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+body {
+    padding: 100px auto;
+    background-image: url("https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/211360/7538841421dea4da2e4f1dfe1ea1d1c2d0c0632e.jpg");
+}
+
+#content-wrapper {
+    width: 600px;
+    height: 400px;
+}
+
+#goal-number {
+    height: 100px;
+    width: 250px;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    left: 320px;
+    font-size: 25px;
+}
+
+#scoreboard {
+    height: 100px;
+    width: 200px;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    left: 320px;
+    font-size: 25px;
+}
+
+#my-score {
+    height: 100px;
+    width: 200px;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    left: 320px;
+    font-size: 25px;
+}
